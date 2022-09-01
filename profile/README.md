@@ -1,7 +1,8 @@
 ## Hi there 👋! 
 We are a trio [[@shell-raiser](https://github.com/shell-raiser), [@thanmaisai](https://github.com/thanmaisai) & [@Beast-Sanjay](https://github.com/beast-sanjay) ], participating in hackathons and stuff 
 <br> 
-All our Hackathon Projects go here, so feel free to look around
+All our Hackathon Projects and our projects go here, so feel free to look around
+
 
 <!--
 
